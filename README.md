@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xDord
-- 👀 I’m interested in GoLang development, blockchain, trading crypto
-- 🌱 I’m currently learning TON blockchain development
+- 👀 I’m interested in architecture, java enterprise development, ML/MLOps, trading crypto
+- 🌱 I’m currently learning MLOps
 
 <!---
 0xDord/0xDord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
