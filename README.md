@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandr Naumov
-- 👀 I’m interested in architecture, java enterprise development, ML/MLOps, trading crypto
+- 👀 I’m interested in architecture, java enterprise development, ai agent development, ML/MLOps, trading crypto
 - 🌱 I’m currently learning MLOps
 
 <!---
